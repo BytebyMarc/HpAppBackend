@@ -1,0 +1,3 @@
+<?php
+// Datenbank-Zugangsdaten anpassen:
+
