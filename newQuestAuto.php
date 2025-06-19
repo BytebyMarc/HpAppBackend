@@ -92,7 +92,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
              VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'
         );
         $m = 10;
-        $y = 2021;
+        $y = 2022;
         $correctCsv = (int)$correctText; // z.B. "13" => 13
         $activ = 1;
 
